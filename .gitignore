@@ -2,3 +2,7 @@ zuliprc
 my_zulip_date.json
 venv
 *.json
+zuliprc
+my_zulip_data.json
+./idea
+.idea
